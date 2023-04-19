@@ -1,0 +1,10 @@
+{
+    "tareas":[
+        {
+            "id":1,
+            "titulo": "tarea 1",
+            "description":"Estudiar para examen",
+            "quien":"Nasser"
+        }
+    ]
+}
